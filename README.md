@@ -4,11 +4,12 @@ This repository contains Python practicals completed during my Semester 3 progra
 
 ## 🧪 Practicals Covered
 
-- `practical1.py` – Introduction to Python
-- `practical2.py` – If-else statements
-- `practical3.py` – Loops
-- `practical4.py` – Functions
-- `practical5.py` – Lists and dictionaries
+- `pr1.py` – Create a list and perform some operations on it
+- `pr2.py` – Adding two numbers using function
+- `pr3.py` – elif statement
+- `pr4.py` – Lambda function
+- `pr5.py` – Get Python Version
+- `pr6.py` – Print Date & Time
 
 ## 📝 Notes
 
